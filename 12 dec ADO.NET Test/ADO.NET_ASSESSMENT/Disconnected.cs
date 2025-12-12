@@ -155,11 +155,7 @@ namespace ADO.NET_ASSESSMENT
                 Console.WriteLine("Student not found.");
             }
         }
-        //Question 5
-        public void Question5()
-        {
-
-        }
+       
         static void Main(string[] args)
         {
             Disconnected dc=new Disconnected();
