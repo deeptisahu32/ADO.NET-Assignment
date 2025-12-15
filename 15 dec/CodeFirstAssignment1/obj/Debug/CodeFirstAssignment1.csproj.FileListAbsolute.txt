@@ -1,0 +1,15 @@
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\bin\Debug\CodeFirstAssignment1.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\bin\Debug\CodeFirstAssignment1.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\bin\Debug\CodeFirstAssignment1.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\bin\Debug\EntityFramework.dll
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\bin\Debug\EntityFramework.xml
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\obj\Debug\CodeFirstAssignment1.csproj.AssemblyReference.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\obj\Debug\CodeFirstAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\obj\Debug\CodeFirs.5A49E14D.Up2Date
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\obj\Debug\CodeFirstAssignment1.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\obj\Debug\CodeFirstAssignment1.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\obj\Debug\CodeFirstAssignment1.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\obj\Debug\CodeFirstAssignment1.Migrations.InitialCreate.resources
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\15 dec\CodeFirstAssignment1\obj\Debug\CodeFirstAssignment1.csproj.GenerateResource.cache
